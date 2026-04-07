@@ -47,32 +47,6 @@ Admin Features:
 - Role-based access control (Admin/User)
 - Protected pages using session checks
 
-## Project Structure
-ecommerce/
-├── admin/
-│   ├── add_product.php
-│   ├── dashboard.php
-│   ├── login.php
-│   ├── logout.php
-│   ├── manage_products.php
-|
-├── css/
-    ├── style.css
-|
-├── images/
-|
-├── includes/
-│   └── db.php
-│
-├── pages/
-    ├── cart.php
-    ├── login.php
-    ├── logout.php
-    ├── register.php
-├── index.php
-├── readme.md
-├── test_db.php
-
 ## Database Setup
 
 Create database:
