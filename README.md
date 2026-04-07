@@ -50,8 +50,9 @@ Admin Features:
 ## Database Setup
 
 ### Create Database
-```sql
-CREATE DATABASE ecommerce;
+1. Open phpMyAdmin
+2. Create a new database named ecommerce
+3. Run the following SQL commands to create the necessary tables:
 ```
 
 ---
