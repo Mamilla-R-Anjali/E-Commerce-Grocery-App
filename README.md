@@ -88,8 +88,6 @@ CREATE TABLE cart (
 2. Place project in htdocs/ecommerce
 3. Start Apache and MySQL
 4. Import database in phpMyAdmin
-5. Open:
-http://localhost/ecommerce/index.php
 
 ## Login Flow
 User: Register → Login → Add to Cart → Checkout  
