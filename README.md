@@ -11,17 +11,6 @@ This is a simple e-commerce web application built using PHP and MySQL. It includ
 - PDO (Database connectivity)
 - PHP Sessions (Authentication & user management)
 
-## Local Setup Links
-http://localhost/ecommerce/index.php  
-http://localhost/ecommerce/login.php  
-http://localhost/ecommerce/register.php  
-http://localhost/ecommerce/cart.php  
-
-http://localhost/ecommerce/admin/login.php  
-http://localhost/ecommerce/admin/dashboard.php  
-http://localhost/ecommerce/admin/add_product.php  
-http://localhost/ecommerce/admin/manage_products.php  
-
 ## Features
 
 User Features:
